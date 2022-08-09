@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working on Flutter
 
 <!---
 vivekprasad99/vivekprasad99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
